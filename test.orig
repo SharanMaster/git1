@@ -3,7 +3,9 @@ This is second commit
 This is Third Commit
 This is fourth commit
 This is fifth commit
+<<<<<<< HEAD
 This is sixth commit
 This is seventh commit
-This is Eight commit
 This is ninth commit
+=======
+>>>>>>> 0e30f03 (Fifth Commit)
