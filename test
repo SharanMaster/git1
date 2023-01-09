@@ -5,4 +5,8 @@ This is fourth commit
 This is fifth commit
 This is sixth commit
 This is seventh commit
+<<<<<<< HEAD
 This is Eight commit
+=======
+This is ninth commit
+>>>>>>> new1
